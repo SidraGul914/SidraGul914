@@ -15,8 +15,8 @@
 ---
 
 ### 🎓 About Me
-**BSCS Final Year Student** | Department of Computer Science |  
-[Islamia College Peshawar](https://www.icp.edu.pk/staff_directory/detail.php?abc=82)
+**BSCS Final Year Student** | Department of Computer Science | [Islamia College Peshawar](https://www.icp.edu.pk/staff_directory/detail.php?abc=82)
+
 
 - 🔭 I’m currently working on my **Final Year Project (FYP)**.
 - 🌱 I’m currently learning **JavaScript** and modern **Web Technologies**.
