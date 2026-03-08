@@ -1,38 +1,41 @@
 # 👋 I'm Sidra Gul
 
-[![Profile views](https://komarev.com/ghpvc/?username=SidraGul914&style=flat)](https://github.com/SidraGul914)
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SidraGul-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SidraGul/)  
-[![Email](https://img.shields.io/badge/Email-sidragul%40example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sidragul@example.com)  
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+### 🎓 About Me
+**BSCS Final Year Student** | [University Name] | Aspiring Software Developer
 
----
-
-## 🎓 About Me
-
-Aspiring Software Developer | Web Developer | Learner of modern technologies  
-Passionate about building responsive websites and applications.
-
----
-
-## 🔬 Current Focus
-
-- 🌱 Learning JavaScript, React, and Python  
-- 🚀 Building projects to improve skills  
-- 💡 Exploring UI/UX design basics
+* 🔭 I’m currently working on my **Final Year Project (FYP)**.
+* 🌱 I’m currently learning **JavaScript** and modern Web Technologies.
+* 📊 I have a keen interest in **Data Analytics** and transforming data into insights.
+* ✍️ Passionate about building responsive websites and solving logical problems.
 
 ---
 
-## 🛠 Skills
+### 🚀 Current Learning Path
 
-- HTML5, CSS3, JavaScript  
-- React, Git & GitHub  
-- Python basics  
+* 💻 **Web Development:** Deep diving into JavaScript (ES6+), DOM manipulation, and Async programming.
+* 📈 **Data Analytics:** Exploring Python for Data Science, Pandas, and Data Visualization basics.
+* 🛠️ **Version Control:** Improving my workflow with Git and GitHub.
 
 ---
 
-## 📫 Contact Me
+### 🛠️ Skills & Tools (In Progress)
 
-- LinkedIn: https://www.linkedin.com/in/SidraGul/  
-- Email: sidragul@example.com  
-- Portfolio: https://yourportfolio.com
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,github,vscode" />
+  </a>
+</p>
+
+---
+
+### 🎯 Goals for 2026
+- [ ] Complete a full-stack JavaScript project.
+- [ ] Build a Data Analytics dashboard using Python.
+- [ ] Contribute to an open-source project.
+
+---
