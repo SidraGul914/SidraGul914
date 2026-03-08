@@ -1,16 +1,38 @@
-## 👋 I'm Sidra Gul
+# 👋 I'm Sidra Gul
 
-<!--
-**SidraGul914/SidraGul914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile views](https://komarev.com/ghpvc/?username=SidraGul914&style=flat)](https://github.com/SidraGul914)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SidraGul-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SidraGul/)  
+[![Email](https://img.shields.io/badge/Email-sidragul%40example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sidragul@example.com)  
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 About Me
+
+Aspiring Software Developer | Web Developer | Learner of modern technologies  
+Passionate about building responsive websites and applications.
+
+---
+
+## 🔬 Current Focus
+
+- 🌱 Learning JavaScript, React, and Python  
+- 🚀 Building projects to improve skills  
+- 💡 Exploring UI/UX design basics
+
+---
+
+## 🛠 Skills
+
+- HTML5, CSS3, JavaScript  
+- React, Git & GitHub  
+- Python basics  
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/SidraGul/  
+- Email: sidragul@example.com  
+- Portfolio: https://yourportfolio.com
